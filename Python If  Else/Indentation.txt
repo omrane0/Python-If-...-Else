@@ -1,0 +1,11 @@
+a = 33
+b = 200
+
+if b > a:
+print("b is greater than a")
+
+
+File "demo_if_error.py", line 4
+    print("b is greater than a")
+        ^
+IndentationError: expected an indented block
